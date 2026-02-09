@@ -236,7 +236,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#4CAF50] focus:ring-[#4CAF50] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="sms-consent" className="ml-3 text-sm leading-relaxed">
-                        By checking this box, you provide consent to receive automated SMS messages from EDM Verify. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@edmverify.com. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you provide consent to receive automated SMS messages, including customer care SMS, from EDM Verify. Message frequency varies and message and data rates may apply. You may opt-out by replying 'STOP'. Reply 'HELP' for help or email support@edmverify.com. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
@@ -266,7 +266,7 @@ export default function SignupPage() {
                         className="mt-1 h-4 w-4 text-[#4CAF50] focus:ring-[#4CAF50] border-gray-300 rounded flex-shrink-0"
                       />
                       <label htmlFor="account-notifications" className="ml-3 text-sm leading-relaxed text-gray-700">
-                        By checking this box, you consent to receive account notifications, service updates, and important information about your EDM Verify account via email and SMS. You may opt-out at any time by contacting support@edmverify.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
+                        By checking this box, you consent to receive account notifications, service updates, and important information about your EDM Verify account via SMS. Message frequency varies. You may opt-out at any time by contacting support@edmverify.com or by following the unsubscribe instructions in our communications. Consent is not required as a condition of purchasing any products or services.
                       </label>
                     </div>
                   </div>
